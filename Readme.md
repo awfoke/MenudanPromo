@@ -1,3 +1,8 @@
+## Nama: Aldi Prabowo
+## NIM: 19.11.2850
+## Kelas: 19 - S1IF - 04
+
+
 # Menu dan Promo
 Aplikasi simulasi pembelian makanan/minuman sederhana menggunakan promo/voucher.
 
